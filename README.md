@@ -1,9 +1,9 @@
 
 <!--
-**theJames-CE/thejames-CE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
+**theJames-CE/thejames-CE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile**
 
 
-### Hello There!👋
+Hello There!👋
 
 🚀 About Me
 
@@ -26,3 +26,5 @@
 ![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=blue)
 
 ![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=red)
+
+-->
