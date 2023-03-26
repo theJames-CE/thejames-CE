@@ -16,7 +16,7 @@ Hello There!👋
 
 📩 You can reach me at my email: **jbrandonw88@gmail.com**
 
-⚡️ **Fun Facts About Me:** I attended WrestleMania 27 🤼 , my favorite color is green 🟢, I consider myself a cheese connoisseur 🧀, and I traveled over 9,000 miles one way by myself in 2018 and 2019 ✈️
+⚡️ **Fun Facts About Me:** I attended WrestleMania 27 🤼 , my favorite color is green 🟢, I consider myself a cheese connoisseur 🧀, and I am a solo traveller and my favorite place I've travelled to is the Philippines ✈️
 
 --------------------------------------------------------------------------------------------
 
