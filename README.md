@@ -14,6 +14,8 @@ Hello There!👋
 
 💬 Feel free to ask me **Anything**. I am here to share my knowledge with anyone interested while also listening and learning new information from all of you.
 
+👨‍💻 I offer my services as a freelance programmer on Fiver: https://www.fiverr.com/s/zL0XV3
+
 📩 You can reach me at my email: **jbrandonw88@gmail.com**
 
 ⚡️ **Fun Facts About Me:** I attended WrestleMania 27 🤼 , my favorite color is green 🟢, I consider myself a cheese connoisseur 🧀, and I am a solo traveller and my favorite place I've travelled to is the Philippines ✈️
